@@ -7,4 +7,4 @@
 <!---
 Ujfiguuuu/Ujfiguuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> & "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AdQt8qhXRpQf0oIYqUagO2UbpEwmQRmJqcJJPROPSzZZtPlJhHS2N0xRtXyx9NKhzscsTw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME
